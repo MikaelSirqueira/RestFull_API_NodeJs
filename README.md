@@ -1,5 +1,5 @@
 # RestFull_API_NodeJs
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Trilha NodeJS - Fundamentos do NodeJS </h1>
 
 <p align="center">
 Programa exclusivo, promovido pela Rocketseat através da trilha NodeJS do Ignite. <br/>
